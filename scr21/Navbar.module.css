@@ -1,0 +1,13 @@
+
+.nav{
+    grid-area: n;
+    background-color: aquamarine;
+    padding: 20px;
+    }
+
+.item a{
+    color: white;
+}
+.item.active:focus{
+    color: rebeccapurple;
+}
