@@ -1,0 +1,18 @@
+.friends {
+    flex-direction: row;
+}
+
+
+.image {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    float:left;
+    margin: 2px;
+    text-align: center;
+}
+
+.name{
+    padding: 30px 30px 30px 0px;
+    font-size: 20px;
+}
